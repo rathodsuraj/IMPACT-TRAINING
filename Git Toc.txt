@@ -1,3 +1,4 @@
+Day 1 TOC
 GIt
 Installation of git
 creating a repository
