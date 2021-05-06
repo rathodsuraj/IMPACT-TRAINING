@@ -2,4 +2,16 @@ git remote
 git clone
 git push origin master
 git full origin master
+
+euhoihdsv
+fofuwehgwegh
+kjujsbgkjbseg
+kjsbegkjbng
+kjsbegouwgt
+oiehrwewoirj
+uhoguwglhwewoghslklnsdgubhsg
+ohgoiheroughwrg
+oihgoinrgoihwg
+lhoigngslrkgj
+oinoinegijlserig
 git clone <respectiver URL>
