@@ -1,0 +1,5 @@
+GIt
+Installation of git
+creating a repository
+add/update files
+commit
